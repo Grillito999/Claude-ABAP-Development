@@ -1,0 +1,11 @@
+{
+  "name": "juan-sap-tools",
+  "owner": { "name": "Juan Henao" },
+  "plugins": [
+    {
+      "name": "sap-abap-developer",
+      "source": "./",
+      "description": "SAP ABAP developer toolkit"
+    }
+  ]
+}

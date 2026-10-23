@@ -1,0 +1,7 @@
+{
+  "name": "sap-abap-developer",
+  "version": "1.0.0",
+  "description": "SAP ABAP developer toolkit: code writing, Clean ABAP, code reviews, performance (ECC/HANA), research, customizing, background jobs, data workbooks, ADT API, and SAP UI test automation.",
+  "author": { "name": "Juan Henao" },
+  "keywords": ["sap", "abap", "hana", "ecc", "adt", "testing"]
+}
